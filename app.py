@@ -61,5 +61,3 @@ def delete(sno):
 def home():
     return 'We are home'
 
-if __name__ == "__main__":
-    app.run(debug=True)
